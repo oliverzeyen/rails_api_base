@@ -1,1 +1,1 @@
-# rails_api_base
+Rails API Base!
